@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
+I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 
 :telescope: I love teaching on software engineering students as well as writing software .
 
