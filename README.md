@@ -13,6 +13,8 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 :mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nikolai.videnov/)   
 
+:mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nikolai.videnov/) 
+
 <a href="https://www.linkedin.com/in/nikolay-videnov-968648239/" target="_blank"> 
   </a>   
 
