@@ -18,7 +18,18 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </a>                                     
 
 
-### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niki9011&theme=dark&background=000000)](https://git.io/streak-stats)
+## 📊 My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niki9011&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+    <a href="https://github.com/niki9011/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niki9011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/niki9011/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki9011&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+<a href="https://github.com/niki9011/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niki9011&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
