@@ -19,7 +19,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<a href="https://www.apachefriends.org/" target="_blank"> <img src="http://wimzcomputer.xyz/apa-itu-xampp/" width="40" height="40"/> 
+<a href="https://www.apachefriends.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="40" height="40"/> 
 
   
   
