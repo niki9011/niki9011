@@ -14,7 +14,6 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 :mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nikolai.videnov/)   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-videnov-968648239/)
 
 ## :hammer_and_wrench: Technologies & Tools that I have use
-
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
