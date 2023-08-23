@@ -26,5 +26,6 @@ alt="Docker" width="40" height="40"/>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
 <a href="https://www.apachefriends.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="40" height="40"/>
 
-<a href="https://github.com/niki9011/github-readme-stats"><img alt="niki9011" src="https://github-readme-stats.vercel.app/api?username=niki9011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="https://github.com/niki9011/github-readme-stats"><img alt="niki9011" src="https://github-readme-stats.vercel.app/api?username=niki9011&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
   <a href="https://github.com/niki9011/github-readme-stats"><img alt="niki9011" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki9011&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
