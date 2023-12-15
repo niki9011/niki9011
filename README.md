@@ -2,8 +2,7 @@
 
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 
-
-:mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Wordpress-%231877F2.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://niki9011.wordpress.com/)   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-videnov-968648239/)
+How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Wordpress-%231877F2.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://niki9011.wordpress.com/)   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-videnov-968648239/)
 
 ## :hammer_and_wrench: Technologies & Tools that I have use
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
