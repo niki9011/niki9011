@@ -1,6 +1,4 @@
- About Me :
-
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
+ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 
 How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Wordpress-%231877F2.svg?style=for-the-badge&logo=Wordpress&logoColor=white)](https://niki9011.wordpress.com/)   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-videnov-968648239/)
 
